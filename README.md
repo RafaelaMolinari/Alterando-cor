@@ -1,1 +1,2 @@
 # Alterando-cor
+Alteração de cores RGB: Implementação de um sistema para ajustar e manipular valores RGB de forma dinâmica. O projeto permite a personalização das cores de forma flexível, com base nos valores de cada canal (R, G, B), facilitando a criação de temas e a modificação de elementos visuais em tempo real. A funcionalidade inclui a capacidade de converter entre diferentes formatos de cores e a aplicação dessas mudanças de maneira intuitiva. Ideal para projetos que demandam ajustes dinâmicos de cores com base nas preferências do usuário ou em parâmetros específicos.
